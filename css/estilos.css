@@ -63,9 +63,19 @@ img {
 	display:none;
 }
 
+.border-tabla{
+	border-width:5px;	
+    border-top: dashed;
+    border-bottom: dashed;
+    border-color: #ccc;
+}
 
+.espacio{
+	margin-bottom: 20px;
+}
 
 .fondo2 {
+	text-align: center;
 	background-color: #7ECAAD;
 }
 
