@@ -8,6 +8,8 @@ html, body{
 
 body{
 	font-family: 'Poiret One', Arial, serif; font-weight: 400;
+	max-width: 1300px;
+	margin: 0 auto;
 }
 
 *, *:before, *:after {
